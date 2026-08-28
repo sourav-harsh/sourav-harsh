@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=sourav-harsh&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@ I'm particularly interested in:
 
 ## 🚀 Featured Projects
 
-### 🎥 StreamVault
+### 🎥 [StreamVault](https://github.com/Priyawarat/stream-vault)
 
 A video processing platform built around asynchronous processing and distributed components.
 
@@ -103,7 +103,7 @@ A video processing platform built around asynchronous processing and distributed
 
 ---
 
-### 📊 InsightFlow
+### 📊 [InsightFlow](https://github.com/sourav-harsh/InsightFlow)
 
 A data-processing SaaS platform designed around reliable asynchronous workflows.
 
@@ -132,12 +132,7 @@ A real-time communication application exploring video/audio communication and We
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-harsh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -160,21 +155,13 @@ A real-time communication application exploring video/audio communication and We
 
 * [x] Build real-world production applications
 * [x] Work with microservices
-* [x] Learn message-driven architectures
+* [x] Learn message-driven architectures in detailed
 * [x] Build scalable backend systems
-* [ ] Master System Design
+* [x] Master System Design
 * [ ] Deep dive into AWS
 * [ ] Contribute more to Open Source
 * [ ] Build something used by real users
 * [ ] Become an exceptional Backend Engineer 🚀
-
----
-
-## 🏆 GitHub Contribution
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
 
 ---
 
@@ -195,13 +182,13 @@ while (true) {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sinu-kumar29/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:s4056751@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/sourav-harsh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
