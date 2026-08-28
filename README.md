@@ -158,7 +158,8 @@ A real-time communication application exploring video/audio communication and We
 * [x] Learn message-driven architectures in detailed
 * [x] Build scalable backend systems
 * [x] Master System Design
-* [ ] Deep dive into AWS
+* [ ] Deep dive into DevOps
+* [ ] Deep dive into the Generative AI, RAG, ML, AI pipeline
 * [ ] Contribute more to Open Source
 * [ ] Build something used by real users
 * [ ] Become an exceptional Backend Engineer 🚀
