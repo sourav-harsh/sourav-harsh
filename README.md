@@ -40,19 +40,19 @@ I'm a **Software Engineer** passionate about building scalable applications, bac
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,quarkus,maven,kafka,rabbitmq,redis" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,expressjs,maven,kafka,rabbitmq,redis" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,reactnative" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,gks" />
 </p>
 
 ### 🗄️ Databases
@@ -61,6 +61,11 @@ I'm a **Software Engineer** passionate about building scalable applications, bac
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,intellij,slack,trello,dbeaver" />
+</p>
 ---
 
 ## 🔥 What I'm Working On
