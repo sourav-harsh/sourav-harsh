@@ -52,7 +52,7 @@ I'm a **Software Engineer** passionate about building scalable applications, bac
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,gks" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,gke" />
 </p>
 
 ### 🗄️ Databases
